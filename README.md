@@ -1,4 +1,5 @@
 # Parallax background scrolling
+## jQuery plugin to apply parallax scrolling to background images
 This plugin was created with the aim of automating the background image scrolling on parallax-style web pages. It takes the element's height and offset, along with the window height and calculates a vertical background position (in percent), which is applied on the scroll event. See the `demo` for an example of the plugin in action.
 
 ## parallaxBackgrounds(fixedHeader)
